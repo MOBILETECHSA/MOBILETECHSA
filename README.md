@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Building my Network in Health Data Management, and Mobile Diagnostic Testing
+- 🔭 I’m currently working on ... Building my Network in Health Data Management, Open source coding Projects.
 - 🌱 I’m currently learning ...sql forms in EHR and Web development 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... Web3 Dev.
 - 🤔 I’m looking for help with ... setting up Demo store fronts for E.commerce 
 - 💬 Ask me about ...
 - 📫 How to reach me: ... see my LinkTree 🔗
